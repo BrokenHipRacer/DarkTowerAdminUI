@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
+  "keywords": [],
+  "author": "BrokenHipRacer andrew@alsberge.email",
+  "license": "ISC",
+  "dependencies": {
+    "@uiw/react-md-editor": "^3.18.1",
+    "axios": "^0.27.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "moment": "^2.29.4",
+    "next": "^12.2.5",
+    "next-compose-plugins": "^2.2.1",
+    "next-remove-imports": "^1.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rehype-sanitize": "^5.0.1"
+  }
+}
