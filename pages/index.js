@@ -116,7 +116,7 @@ export default class extends Component {
                               <a href={`/blog/edit-post/${post.id}`}>
                                 <span>Edit</span>
                               </a>
-                              <span> ></span>
+                              <span> </span>
                             </div>
                           </div>
                         )
@@ -137,7 +137,7 @@ export default class extends Component {
                               <a href={`/blog/edit-post/${post.id}`}>
                                 <span>Edit</span>
                               </a>
-                              <span> ></span>
+                              <span> </span>
                             </div>
                           </div>
                         )
